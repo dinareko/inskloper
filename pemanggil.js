@@ -35,7 +35,7 @@ if(x=="3"){xxx="/2018/09/cara-mendapatkan-uang-dari-google.html"}
 if(x=="4"){xxx="/2018/09/cara-agar-blog-page-one.html"}
 if(x=="5"){xxx="/2018/09/aplikasi-text-editor-untuk-android.html"}
 if(x=="6"){xxx="/2018/09/tutorial-hijab-pashmina.html"}
-if(x=="7"){xxx="/2018/09/cara-membuat-case-handphone-menggunakan-barang-bekas.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="7"){xxx="/2018/09/cara-membuat-case-handphone-menggunakan-barang-bekas.html"}a_to_ve[i].href="https://www.inskloper.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
